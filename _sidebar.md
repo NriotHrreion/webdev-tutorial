@@ -15,7 +15,7 @@
 * JavaScript 基础
     * [什么是 JavaScript?](/js-tutorial/1.md)
     * [认识基本函数](/js-tutorial/2.md)
-    * [数据类型]
+    * [变量与数据类型](/js-tutorial/3.md)
     * [if语句与逻辑表达式]
     * [switch语句]
     * [while循环]
