@@ -4,6 +4,8 @@ By NoahHrreion
 
 **这个站点提供网页开发的教程，欢迎访问！**
 
+---
+
 教程主要分为以下几个部分：
 
 - [HTML 基础](/html-tutorial/1.md)
