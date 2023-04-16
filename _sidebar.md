@@ -18,7 +18,7 @@
     * [变量与数据类型](/js-tutorial/3.md)
     * [if语句与逻辑表达式](/js-tutorial/4.md)
     * [switch语句](/js-tutorial/5.md)
-    * [while循环]
+    * [while循环](/js-tutorial/6.md)
     * [for循环]
     * [数组]
     * [try...catch语句]
