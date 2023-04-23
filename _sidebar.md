@@ -19,7 +19,7 @@
     * [if语句与逻辑表达式](/js-tutorial/4.md)
     * [switch语句](/js-tutorial/5.md)
     * [while循环](/js-tutorial/6.md)
-    * [for循环]
+    * [for循环](/js-tutorial/7.md)
     * [数组]
     * [try...catch语句]
     * [DOM对象的操作]
@@ -30,13 +30,12 @@
 
 * NodeJS 基础
     * [环境安装]
+    * [npm的使用]
 
 * TypeScript 基础
     * [环境安装]
 
-* Webpack 配置
-
-* Babel 配置
+* Webpack、Babel 等框架配置
 
 * React 框架
     * [开启第一个React项目]
