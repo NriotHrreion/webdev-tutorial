@@ -20,7 +20,7 @@
     * [switch语句](/js-tutorial/5.md)
     * [while循环](/js-tutorial/6.md)
     * [for循环](/js-tutorial/7.md)
-    * [数组]
+    * [数组](/js-tutorial/8.md)
     * [try...catch语句]
     * [DOM对象的操作]
     * [事件监听]
