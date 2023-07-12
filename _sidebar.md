@@ -24,7 +24,7 @@
     * [try...catch语句]
     * [DOM对象的操作]
     * [事件监听]
-    * [用XHR调用WebAPI]
+    * [用XHR调用WebAPI](/js-tutorial/12.md)
     * [类与对象]
     * [类的继承]
 
