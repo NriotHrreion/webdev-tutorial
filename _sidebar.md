@@ -21,8 +21,8 @@
     * [while循环](/js-tutorial/6.md)
     * [for循环](/js-tutorial/7.md)
     * [数组](/js-tutorial/8.md)
-    * [try...catch语句]
-    * [DOM对象的操作]
+    * [try...catch语句](/js-tutorial/9.md)
+    * [DOM对象的操作](/js-tutorial/10.md)
     * [事件监听]
     * [用XHR调用WebAPI](/js-tutorial/12.md)
     * [类与对象]
