@@ -23,10 +23,11 @@
     * [数组](/js-tutorial/8.md)
     * [try...catch语句](/js-tutorial/9.md)
     * [DOM对象的操作](/js-tutorial/10.md)
-    * [事件监听]
+    * [事件监听](/js-tutorial/11.md)
     * [用XHR调用WebAPI](/js-tutorial/12.md)
-    * [类与对象]
+    * [类与对象](/js-tutorial/13.md)
     * [类的继承]
+    * [静态与动态]
 
 * NodeJS 基础
     * [环境安装]
